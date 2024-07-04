@@ -1,0 +1,12 @@
+Trial Stores 77 and 88:
+
+ Both stores experienced statistically significant increases in total sales and customer traffic during the trial period compared to their control stores. This suggests a positive impact from the implemented changes.
+
+Trial Store 86: Unlike stores 77 and 88, trial store 86 did not exhibit a statistically significant uplift in sales or customer traffic. 
+
+Further investigation with the client is recommended to determine any potential implementation variations specific to store 86 that might have influenced the results.
+
+
+Overall Trial Performance:
+
+Despite the outlier case of store 86, the trial program demonstrates a promising overall impact. The significant increases in sales and customer traffic observed in stores 77 and 88 suggest the implemented changes have a positive effect on key performance indicators.
